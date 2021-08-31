@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal , getpass
 ###################################################################
 '''
-     Facebook Information 
+     Facebook Information By VIP
 '''
 ###################################################################
 #                             COLOR
@@ -52,8 +52,8 @@ def baliho():
 	except (KeyError,IOError):
 	 
 		print ' ' + W
-		print ('F B I').center(44)
-		print (W + '     [' + G +'Facebook Information'+ W + ']')
+		print ('V I P').center(44)
+		print (W + '     [' + G +'Facebook Information By VIP'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -62,12 +62,12 @@ def show_program():
 	print '''
                     %sINFORMATION%s
  ------------------------------------------------------
-    Forker     LulzsecHackz
-    Author     Hak9
-    Name       Facebook Information
+    Forker     VIPHackerz
+    Author     VIP
+    Name       Facebook Information By VIP
     Version    Full Version
     Date       13/08/2018 
-    Jabber     xhak9x@jabber.de
+    Jabber     VIPHackerz@jabber.de
 
 * if you find any errors or problems , please contact
   author
